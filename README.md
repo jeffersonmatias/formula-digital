@@ -5,7 +5,7 @@
 Fórmula Digital é um Projeto de Web site para uma assessoria de marketing especializada em ajudar
 empresas a venderem mais.
 
-## Voce pode acessar em: [Fórmula Digital](https://www.jeffersoncarvalho.tech/)
+## Voce pode acessar em: [Fórmula Digital](https://formula-digital.vercel.app/)
 
 ## Tecnologias utilizadas:
 
